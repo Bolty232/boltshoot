@@ -1,0 +1,10 @@
+/.vscode
+/bin
+/obj
+progress
+script
+test
+othertest
+
+# as long as 3d-party-assets might be used
+/assets
